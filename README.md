@@ -21,7 +21,7 @@
 - Git & GitHub
 
 💬 Ask me about
-- Python Basics
+- Python 
 - Web Development
 - GitHub
 - Programming Learning Resources
