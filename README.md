@@ -1,18 +1,3 @@
-Want a crazy good website? Let's Discuss!
-
-GPRM
-
-Support us
-
-◄ Go Back
-Your Awesome Profile is ready !
-
-Copy Code
-Download Markdown File
-Create New
-Need help regarding this? Click here to watch Video.
-PREVIEW
-
 💫 About Me:
 🔭 I’m currently working on
 - Web Development Projects
@@ -45,29 +30,8 @@ PREVIEW
 - I enjoy turning ideas into real projects and continuously learning new technologies.
 
 🌐 Socials:
-[Facebook](https://facebook.com/Malik Ali Hassan) [LinkedIn](https://linkedin.com/in/Malik Ali Hassan) email
+[Facebook](https://web.facebook.com/profile.php?id=100084054080414) [LinkedIn](https://[linkedin.com/in/Malik Ali Hassan](https://www.linkedin.com/in/malik-ali-hassan-/)) [Email](hassanmalikali777@gmail.com)
 
 💻 Tech Stack:
 C++ HTML5 JavaScript Python CSS3 Google Cloud React TailwindCSS MySQL Figma
 
-📊 GitHub Stats:
-
-
-
-
-
-
-✍️ Random Dev Quote
-
-
-
-
-What to Do Next ? : 
-Copy this Code and Paste it into your GitHub ReadMe file.
-
-
-Hey👋, Can you help us to grow by sharing?
-
-Feedback
-itsvgin@gmail.com
-</> & Crafted with 💛 Vishwa Gaurav
