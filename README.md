@@ -82,7 +82,7 @@ Passionate about building real-world software, solving problems through code, an
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/malik-ali-hassan/
+- 💼 LinkedIn: https://www.linkedin.com/in/malik-ali-hassan777/
 - 💻 GitHub: https://github.com/MALIK-ALI777
 - 📧 Email: hassanmalikali777@gmail.com
 
